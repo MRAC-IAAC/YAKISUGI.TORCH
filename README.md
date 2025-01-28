@@ -75,6 +75,15 @@ Additional system libraries might be needed depending on your thermal camera:
 sudo apt-get install libuvc-dev
 ```
 
+### Dependencies
+
+Clone this repository to your local machine, and follow the instructions to install the libraries to use the camera.:
+
+```bash
+git clone https://github.com/Clarrainl/thermal-camera.git
+cd thermal-camera
+```
+
 ### Installation
 
 1. Clone this repository:
