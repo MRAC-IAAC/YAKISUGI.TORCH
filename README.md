@@ -59,7 +59,7 @@ Ensure the following are installed:
 
 - **Ubuntu 20.04 LTS** or later.
 - **Python 3.7** or newer.
-- **Compatible Thermal Camera** (e.g., FLIR USB camera).
+- **Compatible Thermal Camera** (In our case [PureThermal 2](https://www.digikey.es/es/products/detail/groupgets-llc/PURETHERMAL-2/9866290?srsltid=AfmBOoo42FQrhv-d5QF3zwEY6Bh0-_gavBYQdsFF0tn-icMfYrEgnc1-))
 
 ### Dependencies
 
