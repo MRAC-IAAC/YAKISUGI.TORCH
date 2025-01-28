@@ -247,6 +247,5 @@ The results include a table with:
 - [FLIR Camera Documentation](https://www.flir.com/support/)
 - [ESP32 Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/)
 - [Thermal Camera GitHub Repository](https://github.com/Clarrainl/thermal-camera)
-- **Presentation Document:** "Hardware II Final Presentation - YAKISUGI Torch Project."
 
 ---
