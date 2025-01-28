@@ -227,6 +227,9 @@ The results include a table with:
 | ----------------- | ------------ | ------------ | ------------- |
 | 00:00:05          | 20.5         | 37.8         | 15            |
 
+![HARDWARE II_Final_Mau Javi Charlie](https://github.com/user-attachments/assets/f7850612-6689-4223-ba04-abdd8ccb29ab)
+
+
 ---
 
 ## Authors
