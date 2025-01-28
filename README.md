@@ -80,8 +80,8 @@ sudo apt-get install libuvc-dev
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-repository-url.git
-cd your-repository-folder
+git clone https://github.com/MRAC-IAAC/YAKISUGI.TORCH
+cd YAKISUGI.TORCH
 ```
 
 2. Verify your ESP32 is set up and running with its provided firmware.
@@ -99,7 +99,7 @@ cd your-repository-folder
 1. Run the script:
 
    ```bash
-   python3 thermal_camera_esp32.py
+   python3 yakisugi_python.py
    ```
 
 2. The live feed from the thermal camera will appear.
